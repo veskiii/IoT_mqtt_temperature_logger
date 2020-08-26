@@ -1,0 +1,3 @@
+adc_calculate.c:37:8:convertAnalogToTemperature	16	static
+adc_calculate.c:68:8:approximateTemperatureFloat	16	static
+adc_calculate.c:92:5:approximateTemperatureInt	16	static

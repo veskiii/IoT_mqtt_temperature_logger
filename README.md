@@ -1,5 +1,5 @@
 # IoT_mqtt_temperature_logger
-IoT MQTT Temperature Logger + IP configuration by website 
+IoT MQTT Temperature Logger + IP configuration by website. Created for STM32H743ZI using LwIP.
 
 
 # Features
